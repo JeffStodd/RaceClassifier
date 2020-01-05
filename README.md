@@ -12,9 +12,8 @@ Note: Built in Windows Environment
 
 Validation and model tweaks are in progress.
 
-Input: 200x200 RBG image 
-Output: Array of length 5 with each element containing a probability of the corresponding race
-Array format is as follows:
-White, Black, Asian, Indian, and Others
+- Input: 200x200 RBG image 
+- Output: Array of length 5 with each element containing a probability of the corresponding race
+- Array format is as follows: White, Black, Asian, Indian, and Others
 
-Others refers to Hispanic, Latino, Middle Eastern, etc.
+- Others refers to Hispanic, Latino, Middle Eastern, etc.
