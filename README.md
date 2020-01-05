@@ -12,7 +12,7 @@ Note: Built in Windows Environment
 
 Validation and model tweaks are in progress.
 
-Dataset used: https://susanqq.github.io/UTKFace/
+Dataset used (Aligned and Cropped): https://susanqq.github.io/UTKFace/
 
 ## Features
 - Input: 200x200 RBG image 
